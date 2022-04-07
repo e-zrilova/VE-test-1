@@ -256,7 +256,7 @@ body {
 }
 
 .complex {
-  background: #5380a7 url('/assets/img/content/378ed180-f965-4726-b77a-194d45017ce2.jpg') no-repeat;
+  background: #5380a7 url('./assets/img/content/378ed180-f965-4726-b77a-194d45017ce2.jpg') no-repeat;
   padding: 135px 0;
   background-size: cover;
   background-position: center center;
